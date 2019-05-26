@@ -3,7 +3,7 @@ Sample Java Application with MongoDB
 -----------------------------------------------------------------------------
 A MongoDB Java CRUD Example
 
-Uses JSP-View layer
+JSP-View layer
 
 DAO-For CRUD Operations
 
@@ -31,6 +31,7 @@ Running the project
 --In Netbeans
 
 File->Open Project->Select the project->Open Project->In Libraries add mongo-java-driver-3.5.0->Run 
+
 ---------------------------------------------------------------------------------------------
 
 
